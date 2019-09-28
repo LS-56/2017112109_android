@@ -28,35 +28,32 @@ public class Hello2 extends AppCompatActivity implements View.OnClickListener {
     @Override
     protected void onStart() {
         super.onStart();
-        Log.d(TAG,
-                mObjCount = objCount; "-onStart execute");
+        Log.d(TAG, mObjCount + "-onStart execute");
     }
 
 
     @Override
     protected void onResume() {
         super.onResume();
-        Log.d(TAG, objCount++;
-        mObjCount = objCount;
-        "-onResume execute");
+        Log.d(TAG, mObjCount + "-onResume execute");
     }
 
     @Override
     protected void onPause() {
         super.onPause();
-        Log.d(TAG, "onPause execute");
+        Log.d(TAG, mObjCount + "-onPause execute");
     }
 
     @Override
     protected void onStop() {
         super.onStop();
-        Log.d(TAG, "onStop execute");
+        Log.d(TAG, mObjCount + "-onStop execute");
     }
 
     @Override
     protected void onDestroy() {
         super.onDestroy();
-        Log.d(TAG, "onDestroy execute");
+        Log.d(TAG, mObjCount + "-onDestroy execute");
     }
 
     @Override
