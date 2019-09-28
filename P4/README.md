@@ -10,6 +10,8 @@
 *singleTop模式<br>
 Hello1设置为singleTop模式<br>
 当Hello1活动在栈顶时，再次启动Hello1，则认为可以直接使用它，不会再创建新的活动实例<br>
+当Hello1活动不在栈顶时，再次启动Hello1，会再创建新的活动实例<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P4/images/4.PNG)<br>
 *singleTask模式<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P4/images/5.PNG)<br>
+
