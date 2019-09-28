@@ -13,5 +13,7 @@ Hello1设置为singleTop模式<br>
 当Hello1活动不在栈顶时，再次启动Hello1，会再创建新的活动实例<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P4/images/4.PNG)<br>
 *singleTask模式<br>
+Hello1设置为singleTask模式<br>
+每次启动Hello1时系统首先会在返回栈中检查是否存在该活动的实例，如果存在则直接使用该实例，并把这个活动之上的所以活动统统出栈，如果不存在则创建一个新的活动实例<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P4/images/5.PNG)<br>
 
