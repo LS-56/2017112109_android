@@ -1,4 +1,12 @@
 安卓作业五
 ====
 *
-![image](https://github.com/LS-56/2017112109_android/blob/master/P4/images/1.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/1.PNG)<br>
+*
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/2.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/3.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/4.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/5.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/6.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/7.PNG)<br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P5/images/8.PNG)<br>
