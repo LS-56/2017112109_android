@@ -1,7 +1,6 @@
 package com.example.helloworld;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
@@ -68,10 +67,14 @@ public class Hello1 extends AppCompatActivity implements View.OnClickListener {
         if (v.getId() == R.id.btToHello3) {
             // intent = new Intent(Hello1.this, Hello3.class);
             //  startActivity(intent);
-            Intent intent1 = new Intent(Intent.ACTION_VIEW);
-            intent1.setData(Uri.parse("geo:0,0?z=4&q=business+near+city"));
+            //Intent intent1 = new Intent(Intent.ACTION_VIEW);
+            //intent1.setData(Uri.parse("geo:0,0?z=4&q=business+near+city"));
             // intent1.setData(Uri.parse("tel:555-555-555"));
-            startActivity(intent1);
+            //startActivity(intent1);
+            //自定义隐含意图
+            String string1 = "com.example.helloworld.intent.action.H3";//把字符串赋给string1
+            intent = new Intent(string1);  //通过string1使字符串成为意图
+            startActivity(intent);
         }
     }
 

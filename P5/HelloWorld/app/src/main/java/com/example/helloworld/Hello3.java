@@ -16,8 +16,14 @@ public class Hello3 extends AppCompatActivity implements View.OnClickListener {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_hello3);
         Log.d(TAG, "onCreate execute");
-        settupClicks();
         setTitle("Hello3");
+        settupClicks();
+        Intent intent = this.getIntent();
+        if (intent == null) {
+            Log.d("test tag", "This activity is invoked without an intent");
+        }
+
+
     }
 
     @Override
