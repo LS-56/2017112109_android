@@ -2,7 +2,7 @@
 ===========
 作业要求<br>
 -----------
-1.Recyclerview<br>
+1.Recyclerview<br>控件使用
 2.增删查改<br>
 3.使用SQL操作数据库<br>
 
@@ -37,7 +37,7 @@
 
 资源分享<br>
 -----------
-Recycleview网上找的相关学习视频<br>
+*Recycleview网上找的相关学习视频<br>
 Recycleview<br>
 https://v.qq.com/x/page/c0313qhtefl.html<br>
 Click响应<br>
