@@ -8,7 +8,7 @@
 
 实现结果<br>
 -----------
-
+![image](https://github.com/LS-56/2017112109_android/blob/master/P2/images/1.png)<br><br>
 
 出现的问题<br>
 -----------
