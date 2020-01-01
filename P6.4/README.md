@@ -9,6 +9,13 @@
 实现结果<br>
 -----------
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture1.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture2.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture3.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture4.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture5.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture6.png)<br><br>
+![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture7.png)<br><br>
+
 
 出现的问题<br>
 -----------
