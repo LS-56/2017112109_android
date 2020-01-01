@@ -2,7 +2,7 @@
 ===========
 作业要求<br>
 -----------
-1.Recyclerview<br>控件使用
+1.Recyclerview控件使用<br>
 2.增删查改<br>
 3.使用SQL操作数据库<br>
 
