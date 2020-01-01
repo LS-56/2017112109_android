@@ -8,13 +8,13 @@
 
 实现结果<br>
 -----------
-增加李四并查询，查询结果用Recyclerview控件显示
+增加李四并查询，查询结果用Recyclerview控件显示<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture1.png)<br><br>
-把张三修改为张四并查询，查询结果用Recyclerview控件显示
+把张三修改为张四并查询，查询结果用Recyclerview控件显示<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture2.png)<br><br>
-删除李四并查询，查询结果用Recyclerview控件显示
+删除李四并查询，查询结果用Recyclerview控件显示<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture3.png)<br><br>
-代码目录
+代码目录<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P6.4/images/picture7.png)<br><br>
 
 
