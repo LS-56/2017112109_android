@@ -9,7 +9,7 @@ ID| 名称
 [P6](https://github.com/LS-56/2017112109_android/tree/master/P6.4)|RecycleView增删改查
 [P7](https://github.com/LS-56/2017112109_android/tree/master/P7)|Broadcast Receiver
 [P8](https://github.com/LS-56/2017112109_android/tree/master/P8)|累加回溯
-[P9](https://github.com/LS-56/2017112109_android/tree/master/P9)|异步任务AsyncTask
+[P9](https://github.com/LS-56/2017112109_android/tree/master/P9)|异步任务
 
 
 编写readme文档：</br>
