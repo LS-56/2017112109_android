@@ -16,7 +16,7 @@
 在onDestory（）中调用unregisterReceiver（广播接收器对象名）<br>
 静态：<br>
 1.修改BootCompleteReceiver中的代码<br>
-2.<receiver>、<intentfiter><br>
+2.receiver、intentfiter<br>
 
 
 
