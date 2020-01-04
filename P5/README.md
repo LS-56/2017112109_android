@@ -44,3 +44,4 @@ If one or more actions are specified in the intent filter, at least one of the a
 传入意图中的每个类别都必须出现在筛选器类别列表中。如果一个过滤器没有任何类别，它将只与一个没有提到任何类别的意图匹配。<br>
 caveat<br>
 android将传递给startActivity（）的所有隐式意图视为至少包含一个类别：android.intent.category.default。android允许在应用程序的manifest文件中注册活动，使其可供其他应用程序调用，注册活动时记得匹配隐藏的default类别。<br>
+https://blog.csdn.net/suyimin2010/article/details/80673420
