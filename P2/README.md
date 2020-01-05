@@ -3,7 +3,7 @@
 *在github上下载郭霖的代码导入Android Studio<br>
 *对 build.gradle做出以下修改：<br>
 1.更改gradle版本;<br>
-2.添加goole();<br>
+2.添加google();<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P2/images/1.png)<br><br>
 *对gradle-wrapper.properties文件做出以下修改：<br>
 ![image](https://github.com/LS-56/2017112109_android/blob/master/P2/images/2.png)<br><br>
